@@ -1,0 +1,21 @@
+*{
+    font-family: cursive;
+}
+.navbar img{
+    height:2rem;
+}
+.banner h1{
+    background-color: rgba(0,0,0,0.5);
+    font-weight: 80%;
+}
+caption{
+    caption-side: top;
+}
+.banner i{
+    font-size: 20%;
+}
+.banner{
+height: 300px;
+background-image: url(../img/banner.jpg);
+background-position: center center;
+}
